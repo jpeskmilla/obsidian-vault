@@ -1,4 +1,4 @@
-# Día 1 - Pierna (Cuádriceps y Glúteos)
+## Día 1 - Pierna (Cuádriceps y Glúteos)
 
 | Ejercicio                              | Series | Repeticiones |
 | -------------------------------------- | ------ | ------------ |
@@ -8,8 +8,9 @@
 | Extensión de Cuádriceps en Máquina     | 3      | 8-12         |
 | Curl Femoral Sentado en Máquina        | 3      | 10-15        |
 | Elevación de Gemelos de Pie en Máquina | 3      | 10-15        |
-| Abducciones en Máquina                 | 3      |              |
-# Día 2 - Torso (Empuje Horizontal y Tirón Vertical)
+| Abducciones en Máquina                 | 3      | 10-15        |
+|                                        |        |              |
+## Día 2 - Torso (Empuje Horizontal y Tirón Vertical)
 
 | Ejercicio                              | Series | Repeticiones |
 | -------------------------------------- | ------ | ------------ |
@@ -28,7 +29,7 @@
 | Curl Femoral (Sentado)            | 3      | 10-15        |
 | Sentadilla Búlgara con Mancuernas | 3      | 10-15        |
 | Elevaciones de Talones            | 3      | 10-15        |
-# Día 4 - Torso (Empuje Vertical y Tirón Horizontal)
+## Día 4 - Torso (Empuje Vertical y Tirón Horizontal)
 | Ejercicio                         | Series | Repeticiones |
 | --------------------------------- | ------ | ------------ |
 | Press de Banca Plano (Mancuernas) | 4      | 6-10         |
@@ -38,12 +39,15 @@
 | Curl de Biceps en Banco Inclinado | 3      | 10-15        |
 | Face Pull                         | 3      | 10-15        |
 | Pec Deck                          | 3      | 10-15        |
-
-
+|                                   |        |              |
 
 ```button
 name Descanso
 type prepend command
 action Pomodoro Timer: Toggle timer
 ```
-^button-v6he
+``` 
+name Registar Día
+type prepend command
+action Pomodoro Timer: Toggle timer
+```
