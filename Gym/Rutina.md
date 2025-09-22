@@ -41,8 +41,10 @@
 
 
 
-
-
-
-
-
+```button
+name Descanso
+type command
+action Pomodoro Timer: Reset timer
+color default
+```
+^button-pmqf

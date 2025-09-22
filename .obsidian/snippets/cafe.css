@@ -1,0 +1,24 @@
+
+@media print {
+    /* Selecciona todo el documento para aplicar el fondo y el texto */
+    body {
+        /* Color de fondo: un color oscuro, p. ej., negro o gris oscuro */
+        background-color: #1c1c1c !important; 
+        
+        /* Color del texto: un color claro */
+        color: #e0e0e0 !important;
+    }
+
+    /* Asegúrate de que los encabezados también sean claros */
+    h1, h2, h3, h4, h5, h6 {
+        color: #f0f0f0 !important;
+    }
+    
+    /* Si el tema usa variables de Obsidian, puedes intentar usarlas o anularlas */
+    /* Anular variables comunes de Obsidian (si el tema no las respeta) */
+    --background-primary: #1c1c1c !important;
+    --text-normal: #e0e0e0 !important;
+
+    /* Opcional: Estilos para enlaces, citas, etc. */
+    /* ... */
+}
