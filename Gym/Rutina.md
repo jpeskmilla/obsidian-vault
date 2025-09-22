@@ -43,8 +43,7 @@
 
 ```button
 name Descanso
-type command
-action Pomodoro Timer: Reset timer
-color default
+type prepend command
+action Pomodoro Timer: Toggle timer
 ```
-^button-pmqf
+^button-v6he
