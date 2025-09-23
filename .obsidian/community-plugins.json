@@ -2,12 +2,13 @@
   "table-editor-obsidian",
   "obsidian-icon-folder",
   "pdf-plus",
-  "buttons",
   "dataview",
   "quickadd",
   "templater-obsidian",
-  "pomodoro-timer",
-  "periodic-notes",
   "calendar",
-  "obsidian-tracker"
+  "obsidian-tracker",
+  "obsidian-style-settings",
+  "omnisearch",
+  "obsidian-enhancing-export",
+  "obsidian-pandoc"
 ]

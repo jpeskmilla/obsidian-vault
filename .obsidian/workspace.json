@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c097919b402c3632",
+        "id": "27d1d49787a3a9f4",
         "type": "tabs",
         "children": [
           {
-            "id": "785c39e0f91a46b0",
+            "id": "c988fcceb8650c3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym/Registros/2025-09-22.md",
+                "file": "Informe Taller 2 - Funciones de Alto Orden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-22"
-            }
-          }
-        ]
-      },
-      {
-        "id": "60d53e138f4b34a8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0444ceebf4ec7b7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gym/Resumen General.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resumen General"
+              "title": "Informe Taller 2 - Funciones de Alto Orden"
             }
           }
         ]
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gym/Resumen General.md",
+                "file": "Informe Taller 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Resumen General"
+              "title": "Enlaces entrantes de Informe Taller 2"
             }
           },
           {
@@ -213,22 +193,32 @@
       "bases:Crear nueva base": false,
       "markdown-importer:Abrir el importador de Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "pomodoro-timer:Toggle timer panel": false,
-      "periodic-notes:Open today": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "0444ceebf4ec7b7a",
+  "active": "c988fcceb8650c3a",
   "lastOpenFiles": [
-    "Gym/Registros/2025-09-22.md",
-    "Gym/Resumen General.md",
-    "General/Plantillas/Plantilla Día 1.md",
-    "General/Plantillas/Plantilla Planificación General.md",
-    "General/Plantillas/Plantilla Día 3.md",
-    "General/Plantillas/Plantilla Día 2.md",
+    "Informe Taller 2 - Funciones de Alto Orden.html",
     "Del 22 Sep. al 29 Sep..md",
-    "Gym/Registros/2025-09-21.md",
-    "General/Plantillas/Plantilla Día 4.md",
+    "Informe Taller 2 - Funciones de Alto Orden.md",
     "Programación Funcional/Apuntes.md",
+    "Gym/Progreso/Progreso Día 2 - Torso (Empuje Horizontal y Tirón Vertical).md",
+    "Gym/Registros/Dia 2/2025-09-22.md",
+    "Gym/Registros/Dia 1/2025-09-22.md",
+    "Gym/Progreso/Progreso Día 1 - Pierna (Cuádriceps y Glúteos).md",
+    "Gym/Registros/Dia 4",
+    "Gym/Registros/Dia 3",
+    "Gym/Registros/Dia 2",
+    "Gym/Registros/Dia 1",
+    "General/Plantillas/Plantilla Día 2.md",
+    "Sin nombre",
+    "General/Plantillas/Plantilla Día 1.md",
+    "Gym/Resumen General.md",
+    "General/Plantillas/Plantilla Día 4.md",
+    "General/Plantillas/Plantilla Planificación General.md",
+    "Gym/Progreso",
+    "General/Plantillas/Plantilla Día 3.md",
+    "Gym/Registros/2025-09-21.md",
     "General",
     "General/Plantillas",
     "Gym/Rutinas/Día 1 - Pierna (Cuádriceps y Glúteos).md",
@@ -241,17 +231,10 @@
     "Untitled.md",
     "Gym/Rutinas",
     "Gym/Registros",
-    "Programación Funcional/Diapositivas/Funciones de alto orden.pdf",
-    "Gym",
     "Apuntes.md",
     "README-THEME-MODE.md",
     "Pasted image 20250918171653.png",
-    "Programación Funcional/Diapositivas/Listas.pdf",
-    "Programación Funcional/Diapositivas/Funciones y Procesos.pdf",
-    "Programación Funcional/Diapositivas/Funciones y Datos.pdf",
-    "Programación Funcional/Diapositivas",
     "Sin título.canvas",
-    "README.md",
-    "Welcome.md"
+    "README.md"
   ]
 }

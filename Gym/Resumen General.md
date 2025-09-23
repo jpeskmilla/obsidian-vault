@@ -43,13 +43,5 @@
 |                                   |        |              |
 
 # Progreso
-## 📊 Historial de Entrenamientos Recientes
-```dataview
-TABLE max_bulgaras AS "Peso (kg)", max_bulgaras_reps AS "Reps"
-FROM "Gym/Registros"
-WHERE day = "Día 1 - Pierna (Cuádriceps y Glúteos)"
-SORT date DESC
-LIMIT 10
-```
 
-
+- [[Progreso Día 1 - Pierna (Cuádriceps y Glúteos)]]

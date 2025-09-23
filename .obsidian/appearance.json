@@ -1,10 +1,8 @@
 {
   "cssTheme": "Sanctum",
   "accentColor": "#d0c3a4",
-  "enabledCssSnippets": [
-    "cafe"
-  ],
-  "theme": "obsidian",
+  "enabledCssSnippets": [],
+  "theme": "moonstone",
   "baseFontSizeAction": true,
-  "baseFontSize": 20
+  "baseFontSize": 19
 }

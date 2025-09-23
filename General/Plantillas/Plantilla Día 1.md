@@ -1,7 +1,7 @@
 ---
 date: "{{date:YYYY-MM-DD}}"
 day: Día 1 - Pierna (Cuádriceps y Glúteos)
-duration:
+Duración:
 tags:
   - entrenamiento
 rpe_session:
