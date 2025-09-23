@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDumbbell",
       "LiCode"
     ],
     "recentlyUsedIconsSize": 5,
@@ -30,5 +31,7 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Apuntes.md": "LiCode"
+  "Apuntes.md": "LiCode",
+  "Gym": "LiDumbbell",
+  "Programación Funcional": "LiCode"
 }

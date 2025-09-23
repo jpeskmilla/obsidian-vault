@@ -1,3 +1,4 @@
+# Rutinas
 ## Día 1 - Pierna (Cuádriceps y Glúteos)
 
 | Ejercicio                              | Series | Repeticiones |
@@ -20,7 +21,7 @@
 | Jalón al Pecho (Agarre Neutro/Cerrado) | 3      | 8-12         |
 | Elevaciones Laterales                  | 3      | 10-15        |
 | Extensión de Tríceps (Polea alta)      | 3      | 10-15        |
-# Día 3 - Pierna (Isquios y Cadena Posterior)
+## Día 3 - Pierna (Isquios y Cadena Posterior)
 | Ejercicio                         | Series | Repeticiones |
 | --------------------------------- | ------ | ------------ |
 | Peso Muerto Rumano (Mancuernas)   | 4      | 6-10         |
@@ -41,13 +42,14 @@
 | Pec Deck                          | 3      | 10-15        |
 |                                   |        |              |
 
-```button
-name Descanso
-type prepend command
-action Pomodoro Timer: Toggle timer
+# Progreso
+## 📊 Historial de Entrenamientos Recientes
+```dataview
+TABLE max_bulgaras AS "Peso (kg)", max_bulgaras_reps AS "Reps"
+FROM "Gym/Registros"
+WHERE day = "Día 1 - Pierna (Cuádriceps y Glúteos)"
+SORT date DESC
+LIMIT 10
 ```
-``` 
-name Registar Día
-type prepend command
-action Pomodoro Timer: Toggle timer
-```
+
+

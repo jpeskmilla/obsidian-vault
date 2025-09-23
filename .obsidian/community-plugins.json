@@ -6,5 +6,8 @@
   "dataview",
   "quickadd",
   "templater-obsidian",
-  "pomodoro-timer"
+  "pomodoro-timer",
+  "periodic-notes",
+  "calendar",
+  "obsidian-tracker"
 ]
