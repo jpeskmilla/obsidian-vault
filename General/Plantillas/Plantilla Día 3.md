@@ -5,6 +5,16 @@ duration:
 tags:
   - entrenamiento
 rpe_session:
+max_rdl:
+max_rdl_reps:
+max_sentadilla:
+max_sentadilla_reps:
+max_hip2:
+max_hip2_reps:
+max_bulgara:
+max_bulgara_reps:
+max_talonSentado:
+max_talonSentado_reps:
 ---
 ---
 # # Día 3 - Pierna (Isquios y Cadena Posterior) - {{date:YYYY-MM-DD}}

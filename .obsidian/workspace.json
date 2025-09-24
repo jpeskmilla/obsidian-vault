@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "27d1d49787a3a9f4",
+        "id": "1e9659bb7ebd7e7c",
         "type": "tabs",
         "children": [
           {
-            "id": "c988fcceb8650c3a",
+            "id": "dd54f22f6c6965f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informe Taller 2 - Funciones de Alto Orden.md",
+                "file": "Programación Funcional/Informe Taller 2 - Funciones de Alto Orden.md",
                 "mode": "source",
                 "source": false
               },
@@ -89,12 +89,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "4d7bbb4d5437a732",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
             "id": "6f8903611394d8c8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informe Taller 2.md",
+                "file": "Programación Funcional/Informe Taller 2 - Funciones de Alto Orden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Informe Taller 2"
+              "title": "Enlaces entrantes de Informe Taller 2 - Funciones de Alto Orden"
             }
           },
           {
@@ -113,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Del 22 Sep. al 29 Sep..md",
+                "file": "Programación Funcional/Informe Taller 2 - Funciones de Alto Orden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Del 22 Sep. al 29 Sep."
+              "title": "Enlaces salientes de Informe Taller 2 - Funciones de Alto Orden"
             }
           },
           {
@@ -137,21 +147,6 @@
             }
           },
           {
-            "id": "365276a73e583686",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Del 22 Sep. al 29 Sep..md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Esquema de Del 22 Sep. al 29 Sep."
-            }
-          },
-          {
             "id": "d0a16bb28b6ae69f",
             "type": "leaf",
             "state": {
@@ -162,21 +157,21 @@
             }
           },
           {
-            "id": "4d7bbb4d5437a732",
+            "id": "df670ac13036d45d",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "git-view",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,31 +188,72 @@
       "bases:Crear nueva base": false,
       "markdown-importer:Abrir el importador de Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c988fcceb8650c3a",
+  "floating": {
+    "id": "50c2d593b422920c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "589f113023634956",
+        "type": "window",
+        "children": [
+          {
+            "id": "8e339b4bcd221248",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "365276a73e583686",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Programación Funcional/Informe Taller 2 - Funciones de Alto Orden.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Esquema de Informe Taller 2 - Funciones de Alto Orden"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 966,
+        "y": 62,
+        "width": 940,
+        "height": 1004,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "dd54f22f6c6965f5",
   "lastOpenFiles": [
-    "Informe Taller 2 - Funciones de Alto Orden.html",
     "Del 22 Sep. al 29 Sep..md",
-    "Informe Taller 2 - Funciones de Alto Orden.md",
-    "Programación Funcional/Apuntes.md",
     "Gym/Progreso/Progreso Día 2 - Torso (Empuje Horizontal y Tirón Vertical).md",
     "Gym/Registros/Dia 2/2025-09-22.md",
-    "Gym/Registros/Dia 1/2025-09-22.md",
     "Gym/Progreso/Progreso Día 1 - Pierna (Cuádriceps y Glúteos).md",
+    "Gym/Registros/Dia 1/2025-09-22.md",
+    "General/Plantillas/Plantilla Día 4.md",
+    "General/Plantillas/Plantilla Día 3.md",
+    "General/Plantillas/Plantilla Planificación General.md",
+    "General/Plantillas/Plantilla Día 1.md",
+    "Gym/Resumen General.md",
+    "Programación Funcional/Informe Taller 2 - Funciones de Alto Orden.md",
+    "Informe Taller 2 - Funciones de Alto Orden.html",
+    "Programación Funcional/Apuntes.md",
     "Gym/Registros/Dia 4",
     "Gym/Registros/Dia 3",
     "Gym/Registros/Dia 2",
     "Gym/Registros/Dia 1",
     "General/Plantillas/Plantilla Día 2.md",
     "Sin nombre",
-    "General/Plantillas/Plantilla Día 1.md",
-    "Gym/Resumen General.md",
-    "General/Plantillas/Plantilla Día 4.md",
-    "General/Plantillas/Plantilla Planificación General.md",
     "Gym/Progreso",
-    "General/Plantillas/Plantilla Día 3.md",
     "Gym/Registros/2025-09-21.md",
     "General",
     "General/Plantillas",
@@ -230,7 +266,6 @@
     "Sin título 3.md",
     "Untitled.md",
     "Gym/Rutinas",
-    "Gym/Registros",
     "Apuntes.md",
     "README-THEME-MODE.md",
     "Pasted image 20250918171653.png",

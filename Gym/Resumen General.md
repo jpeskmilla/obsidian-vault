@@ -45,3 +45,4 @@
 # Progreso
 
 - [[Progreso Día 1 - Pierna (Cuádriceps y Glúteos)]]
+- [[Progreso Día 2 - Torso (Empuje Horizontal y Tirón Vertical)]]
