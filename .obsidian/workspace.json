@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1e9659bb7ebd7e7c",
+        "id": "b4f4496037a51554",
         "type": "tabs",
         "children": [
           {
-            "id": "dd54f22f6c6965f5",
+            "id": "4b521cb8fa763404",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación Funcional/Informe Taller 2 - Funciones de Alto Orden.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Informe Taller 2 - Funciones de Alto Orden"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -99,6 +95,21 @@
             }
           },
           {
+            "id": "365276a73e583686",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bases de Datos/Diapositivas/01_19082025.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 01_19082025"
+            }
+          },
+          {
             "id": "6f8903611394d8c8",
             "type": "leaf",
             "state": {
@@ -132,7 +143,17 @@
             }
           },
           {
-            "id": "515fd9c7b33d21a1",
+            "id": "d0a16bb28b6ae69f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "1c2d7d22f03ae2e7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,17 +168,7 @@
             }
           },
           {
-            "id": "d0a16bb28b6ae69f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "df670ac13036d45d",
+            "id": "ace96cf0a3685660",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -167,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -175,6 +186,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "daily-notes:Abrir la nota de hoy": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
@@ -188,53 +200,24 @@
       "bases:Crear nueva base": false,
       "markdown-importer:Abrir el importador de Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "floating": {
-    "id": "50c2d593b422920c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "589f113023634956",
-        "type": "window",
-        "children": [
-          {
-            "id": "8e339b4bcd221248",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "365276a73e583686",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "Programación Funcional/Informe Taller 2 - Funciones de Alto Orden.md",
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "Esquema de Informe Taller 2 - Funciones de Alto Orden"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 966,
-        "y": 62,
-        "width": 940,
-        "height": 1004,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "dd54f22f6c6965f5",
+  "active": "4d7bbb4d5437a732",
   "lastOpenFiles": [
-    "Del 22 Sep. al 29 Sep..md",
+    "Bases de Datos/Diapositivas/01_19082025.pdf",
+    "Programación Funcional/Informe Taller 2 - Funciones de Alto Orden.md",
+    "Bases de Datos/Guía de Estudio de Bases de Datos.md",
+    "Bases de Datos/Lecturas/lectura_historia_DB.pdf",
+    "Bases de Datos/Lecturas/750030M-BD-READ2.pdf",
+    "Bases de Datos/Diapositivas/06_10092025.pdf",
+    "Bases de Datos/Diapositivas/05_10092025.pdf",
+    "Bases de Datos/Diapositivas/04_02092025.pdf",
+    "Bases de Datos/Diapositivas/03_26082025.pdf",
+    "Bases de Datos/Diapositivas/02_19082025.pdf",
+    "Bases de Datos/Lecturas",
+    "Bases de Datos/Untitled Folder",
+    "General/Del 22 Sep. al 29 Sep..md",
     "Gym/Progreso/Progreso Día 2 - Torso (Empuje Horizontal y Tirón Vertical).md",
     "Gym/Registros/Dia 2/2025-09-22.md",
     "Gym/Progreso/Progreso Día 1 - Pierna (Cuádriceps y Glúteos).md",
@@ -244,19 +227,9 @@
     "General/Plantillas/Plantilla Planificación General.md",
     "General/Plantillas/Plantilla Día 1.md",
     "Gym/Resumen General.md",
-    "Programación Funcional/Informe Taller 2 - Funciones de Alto Orden.md",
-    "Informe Taller 2 - Funciones de Alto Orden.html",
     "Programación Funcional/Apuntes.md",
-    "Gym/Registros/Dia 4",
-    "Gym/Registros/Dia 3",
-    "Gym/Registros/Dia 2",
-    "Gym/Registros/Dia 1",
     "General/Plantillas/Plantilla Día 2.md",
-    "Sin nombre",
-    "Gym/Progreso",
     "Gym/Registros/2025-09-21.md",
-    "General",
-    "General/Plantillas",
     "Gym/Rutinas/Día 1 - Pierna (Cuádriceps y Glúteos).md",
     "Gym/Rutinas/Día 3 - Pierna (Isquios y Cadena Posterior).md",
     "Gym/Rutinas/Día 2 - Torso (Empuje Horizontal y Tirón Vertical).md",
@@ -265,11 +238,9 @@
     "Gym/Rutinas/Día 4 - Torso (Empuje Vertical y Tirón Horizontal).md",
     "Sin título 3.md",
     "Untitled.md",
-    "Gym/Rutinas",
     "Apuntes.md",
     "README-THEME-MODE.md",
     "Pasted image 20250918171653.png",
-    "Sin título.canvas",
-    "README.md"
+    "Sin título.canvas"
   ]
 }

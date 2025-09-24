@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlignCenterHorizontal",
+      "LiDatabase",
       "LiDumbbell",
       "LiCode"
     ],
@@ -33,5 +35,7 @@
   },
   "Apuntes.md": "LiCode",
   "Gym": "LiDumbbell",
-  "Programación Funcional": "LiCode"
+  "Programación Funcional": "LiCode",
+  "Bases de Datos": "LiDatabase",
+  "ADA": "LiAlignCenterHorizontal"
 }
