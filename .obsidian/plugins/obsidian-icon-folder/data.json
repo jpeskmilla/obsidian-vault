@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalculator",
       "LiAlignCenterHorizontal",
       "LiDatabase",
       "LiDumbbell",
@@ -37,5 +38,6 @@
   "Gym": "LiDumbbell",
   "Programación Funcional": "LiCode",
   "Bases de Datos": "LiDatabase",
-  "ADA": "LiAlignCenterHorizontal"
+  "ADA": "LiAlignCenterHorizontal",
+  "Cálculo": "LiCalculator"
 }

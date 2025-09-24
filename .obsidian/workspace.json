@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b4f4496037a51554",
+        "id": "74c9724906f0fd6e",
         "type": "tabs",
         "children": [
           {
-            "id": "4b521cb8fa763404",
+            "id": "c942915a5cb6e5f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "copilot/copilot-custom-prompts/Generate table of contents.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Generate table of contents"
             }
           }
         ]
@@ -57,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -200,46 +204,47 @@
       "bases:Crear nueva base": false,
       "markdown-importer:Abrir el importador de Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4d7bbb4d5437a732",
+  "active": "94514c85010b68f4",
   "lastOpenFiles": [
-    "Bases de Datos/Diapositivas/01_19082025.pdf",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "Cálculo/Talleres/taller03-monovariable-semII-25.pdf",
+    "Cálculo/Talleres/taller02-monovariable-semII-25.pdf",
+    "Cálculo/Talleres/TALLERMONOVARIABLE (3).pdf",
+    "Cálculo/Cuadernos/Lista de Ejercicios 2.xopp",
+    "Cálculo/Cuadernos/2025-09-17.xopp",
+    "Cálculo/Talleres",
+    "Cálculo/Cuadernos",
+    "Cálculo",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Gym/Progreso/Progreso Día 3 - Pierna (Isquios y Cadena Posterior).md",
+    "Gym/Registros/Dia 3/Sin título.md",
+    "Gym/Progreso/Progreso Día 2 - Torso (Empuje Horizontal y Tirón Vertical).md",
+    "General/Plantillas/Plantilla Día 3.md",
+    "Gym/Resumen General.md",
+    "Gym/Progreso/Progreso Día 1 - Pierna (Cuádriceps y Glúteos).md",
+    "Gym/Registros/Dia 2/2025-09-23.md",
+    "General/Del 22 Sep. al 29 Sep..md",
     "Programación Funcional/Informe Taller 2 - Funciones de Alto Orden.md",
     "Bases de Datos/Guía de Estudio de Bases de Datos.md",
-    "Bases de Datos/Lecturas/lectura_historia_DB.pdf",
-    "Bases de Datos/Lecturas/750030M-BD-READ2.pdf",
-    "Bases de Datos/Diapositivas/06_10092025.pdf",
-    "Bases de Datos/Diapositivas/05_10092025.pdf",
-    "Bases de Datos/Diapositivas/04_02092025.pdf",
-    "Bases de Datos/Diapositivas/03_26082025.pdf",
-    "Bases de Datos/Diapositivas/02_19082025.pdf",
-    "Bases de Datos/Lecturas",
-    "Bases de Datos/Untitled Folder",
-    "General/Del 22 Sep. al 29 Sep..md",
-    "Gym/Progreso/Progreso Día 2 - Torso (Empuje Horizontal y Tirón Vertical).md",
-    "Gym/Registros/Dia 2/2025-09-22.md",
-    "Gym/Progreso/Progreso Día 1 - Pierna (Cuádriceps y Glúteos).md",
     "Gym/Registros/Dia 1/2025-09-22.md",
     "General/Plantillas/Plantilla Día 4.md",
-    "General/Plantillas/Plantilla Día 3.md",
-    "General/Plantillas/Plantilla Planificación General.md",
-    "General/Plantillas/Plantilla Día 1.md",
-    "Gym/Resumen General.md",
-    "Programación Funcional/Apuntes.md",
-    "General/Plantillas/Plantilla Día 2.md",
-    "Gym/Registros/2025-09-21.md",
-    "Gym/Rutinas/Día 1 - Pierna (Cuádriceps y Glúteos).md",
-    "Gym/Rutinas/Día 3 - Pierna (Isquios y Cadena Posterior).md",
-    "Gym/Rutinas/Día 2 - Torso (Empuje Horizontal y Tirón Vertical).md",
-    "Gym/Rutinas/Plantilla de Registro Diario.md",
-    "--------------------------------------.md",
-    "Gym/Rutinas/Día 4 - Torso (Empuje Vertical y Tirón Horizontal).md",
-    "Sin título 3.md",
-    "Untitled.md",
-    "Apuntes.md",
-    "README-THEME-MODE.md",
     "Pasted image 20250918171653.png",
     "Sin título.canvas"
   ]
