@@ -11,14 +11,16 @@
             "id": "67f7e68cdd243f6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Cálculo/Apuntes/Continuidad.md",
-                "mode": "source",
-                "source": false
+                "file": "Cálculo/Talleres/Talleres 2025-1/taller02-monovariable-semI-25.pdf",
+                "page": 1,
+                "left": -53,
+                "top": 794,
+                "zoom": 0.3651960784313726
               },
-              "icon": "lucide-file",
-              "title": "Continuidad"
+              "icon": "lucide-file-text",
+              "title": "taller02-monovariable-semI-25"
             }
           }
         ]
@@ -210,9 +212,12 @@
   },
   "active": "67f7e68cdd243f6e",
   "lastOpenFiles": [
-    "Cálculo/Apuntes/Regla de la Cadena.md",
-    "Cálculo/Apuntes/Propiedades de las Derivadas.md",
+    "Cálculo/Cuadernos/Ejercicios Taller 2 (2025-1).xopp",
+    "Cálculo/Talleres/Talleres 2025-1/Talleres 2025-1.zip",
     "Cálculo/Apuntes/Continuidad.md",
+    "Cálculo/Apuntes/Propiedades de las Derivadas.md",
+    "Cálculo/Apuntes/Regla de la Cadena.md",
+    "Programación Funcional/Informe Taller 2 - Funciones de Alto Orden.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "Gym/Progreso/Progreso Día 3 - Pierna (Isquios y Cadena Posterior).md",
     "Cálculo/Apuntes",
@@ -236,7 +241,6 @@
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts",
     "Gym/Registros/Dia 3/Sin título.md",
     "Gym/Progreso/Progreso Día 2 - Torso (Empuje Horizontal y Tirón Vertical).md",
     "General/Plantillas/Plantilla Día 3.md",
@@ -244,8 +248,6 @@
     "Gym/Progreso/Progreso Día 1 - Pierna (Cuádriceps y Glúteos).md",
     "Gym/Registros/Dia 2/2025-09-23.md",
     "General/Del 22 Sep. al 29 Sep..md",
-    "Programación Funcional/Informe Taller 2 - Funciones de Alto Orden.md",
-    "Bases de Datos/Guía de Estudio de Bases de Datos.md",
     "Pasted image 20250918171653.png",
     "Sin título.canvas"
   ]
