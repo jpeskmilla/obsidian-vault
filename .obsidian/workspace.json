@@ -11,19 +11,46 @@
             "id": "67f7e68cdd243f6e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Cálculo/Talleres/Talleres 2025-1/taller02-monovariable-semI-25.pdf",
-                "page": 1,
-                "left": -55,
-                "top": 794,
-                "zoom": 0.36519607843137253
+                "file": "Programación Funcional/Apuntes/Colecciones.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "taller02-monovariable-semI-25"
+              "icon": "lucide-file",
+              "title": "Colecciones"
+            }
+          },
+          {
+            "id": "5e86b024294ce898",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación Funcional/Apuntes/Funciones de Alto Orden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Funciones de Alto Orden"
+            }
+          },
+          {
+            "id": "18b5ddf5a01ac4bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación Funcional/Apuntes/Colecciones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Colecciones"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,8 +237,18 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "67f7e68cdd243f6e",
+  "active": "5e86b024294ce898",
   "lastOpenFiles": [
+    "Programación Funcional/Apuntes/Colecciones.md",
+    "Pasted image 20250925105917.png",
+    "Pasted image 20250925105839.png",
+    "Pasted image 20250925104949.png",
+    "Pasted image 20250925103943.png",
+    "Programación Funcional/Apuntes/Funciones de Alto Orden.md",
+    "Programación Funcional/Apuntes",
+    "Pasted image 20250925103507.png",
+    "Pasted image 20250925102326.png",
+    "Cálculo/Talleres/Talleres 2025-1/taller02-monovariable-semI-25.pdf",
     "Cálculo/Cuadernos/Ejercicios Taller 2 (2025-1).xopp",
     "Cálculo/Talleres/Talleres 2025-1/Talleres 2025-1.zip",
     "Cálculo/Apuntes/Continuidad.md",
@@ -230,9 +267,6 @@
     "Cálculo/Talleres/TALLERMONOVARIABLE (3).pdf",
     "Cálculo/Cuadernos/Lista de Ejercicios 2.xopp",
     "Cálculo/Cuadernos/2025-09-17.xopp",
-    "Cálculo/Talleres",
-    "Cálculo/Cuadernos",
-    "Cálculo",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
@@ -246,8 +280,6 @@
     "General/Plantillas/Plantilla Día 3.md",
     "Gym/Resumen General.md",
     "Gym/Progreso/Progreso Día 1 - Pierna (Cuádriceps y Glúteos).md",
-    "Gym/Registros/Dia 2/2025-09-23.md",
-    "General/Del 22 Sep. al 29 Sep..md",
     "Pasted image 20250918171653.png",
     "Sin título.canvas"
   ]

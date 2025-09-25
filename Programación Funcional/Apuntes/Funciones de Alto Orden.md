@@ -1,4 +1,4 @@
-# Funciones de Alto Orden
+# Definición
 En la programación funcional, una función de alto orden se refiere a cualquier función que hace cualquiera de estas dos cosas:
 - Recibe una o más funciones como parámetros.
 - Devuelve una función como respuesta/resultado.
