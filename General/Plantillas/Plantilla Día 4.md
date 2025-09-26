@@ -1,7 +1,21 @@
 ---
 date: "{{date:YYYY-MM-DD}}"
 day: Día 4 - Torso (Empuje Horizontal y Tirón Vertical)
-duration:
+Duración:
+max_pressPlano:
+max_pressPlano_reps:
+max_remoPendlay:
+max_remoPendlay_reps:
+max_fondos:
+max_fondos_reps:
+max_jalonAmplio:
+max_jalonAmplioReps:
+max_bicepsInclinado:
+max_bicepsInclinado_reps:
+max_facePull:
+max_facePull_reps:
+max_pecDeck:
+max_pecDeck_reps:
 ---
 ---
 # Día 4 - Torso (Empuje Vertical y Tirón Horizontal) - {{date:YYYY-MM-DD}}
